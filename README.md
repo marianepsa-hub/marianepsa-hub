@@ -2,8 +2,8 @@
 
 ### My name is Mariane Pires de Sá
 
-* 🎓 Undergraduate student in Physics Education
-* 🔬 Master's student in Physics and Astronomy @ UNESP
+* 🎓 Physics master's student
+* 🔬 PPG - Physics and Astronomy @ UNESP
 * ⚛️ Researcher in Plasma Physics, Nanomaterials and Advanced Oxidation Processes
 * 🧪 Currently working with the degradation of pharmaceutical compounds using cold plasma and nanoparticles
 * 💻 Interested in scientific programming, data analysis and computational tools for experimental physics
