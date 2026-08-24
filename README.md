@@ -1,6 +1,6 @@
 ## Hello 👋
 
-### My name is Mariane Pires de Sá
+### My name is Mariane Pires
 
 * 🎓 Physics master's student
 * 🔬 PPG - Physics and Astronomy @ UNESP
