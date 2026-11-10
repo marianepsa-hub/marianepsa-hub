@@ -1,50 +1,19 @@
-## Hello 👋
+# Mariane Pires
 
-### My name is Mariane Pires
+Mestranda em Física no PPG em Física e Astronomia da UNESP. Trabalho com
+plasma frio e nanomateriais para degradar poluentes farmacêuticos em água,
+e acompanho a degradação por HPLC.
 
-* 🎓 Physics master's student
-* 🔬 PPG - Physics and Astronomy @ UNESP
-* ⚛️ Researcher in Plasma Physics, Nanomaterials and Advanced Oxidation Processes
-* 🧪 Currently working with the degradation of pharmaceutical compounds using cold plasma and nanoparticles
-* 💻 Interested in scientific programming, data analysis and computational tools for experimental physics
-* 🚀 Interested in applications of Physics in industry, aerospace and technology
-* 📖 Currently learning more about Python, data analysis and experimental techniques
+Gosto de programação científica e análise de dados aplicadas a física
+experimental, e tenho interesse em aplicações da física na indústria e no
+setor aeroespacial. Estou aprendendo C++ e aprofundando meu Python.
 
-### Main Languages & Tools
+## Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mariane-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Mariane-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Mariane-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) *(aprendendo)*
 
-### Research & Interests
+## Contato
 
-* ⚛️ Physics
-* 🔥 Plasma Physics
-* 🧪 Advanced Oxidation Processes
-* 🔬 Nanomaterials
-* 💧 Environmental applications of Physics
-* 📊 Data Analysis
-* 💻 Scientific Programming
-* 🚀 Aerospace and Space Technology
-
-### Under Development
-
-<div>
-  <img align="center" alt="Mariane-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-</div>
-
-### Contact Me
-
-<div>
-  <a href="mailto:mariane.p.sa@unesp.br">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
-
-### My GitHub Main Page
-
-<a href="https://github.com/marianepsa-hub">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
+mariane.p.sa@unesp.br
